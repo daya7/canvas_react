@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Using the library react-canvas-draw in a sample app.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
